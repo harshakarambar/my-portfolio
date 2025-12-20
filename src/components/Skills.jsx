@@ -4,15 +4,31 @@ import React from 'react';
 import { motion } from 'framer-motion';
 
 const skillCategories = [
+  
   {
     title: 'Programming',
     icon: '💻',
-    skills: ['Python', 'Java', 'JavaScript', 'HTML5', 'CSS3', 'PHP'],
+   skills: ['Python', 'Java', 'PHP', 'JavaScript', 'HTML5', 'CSS3'],
   },
   {
-   title: 'Frameworks & Tools',
-   icon: '🛠️',
-   skills: ['React.js', 'MySQL', 'Git', 'Workday Studio', 'VS Code', 'XAMPP'],
+    title: 'Frameworks & Libraries',
+    icon: '⚙️',
+    skills: ['React.js', 'Bootstrap'],
+  },
+  {
+    title: 'Databases',
+    icon: '🗄️',
+    skills: ['MySQL'],
+  },
+  {
+    title: 'Tools & Platforms',
+    icon: '🛠️',
+    skills: ['Git', 'Postman', 'Linux'],
+  },
+  {
+    title: 'Concepts & Practices',
+    icon: '📚',
+    skills: ['REST APIs', 'MVC', 'SDLC', 'Agile', 'Debugging'],
   },
   {
    title: 'Soft Skills',
