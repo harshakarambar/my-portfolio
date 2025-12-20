@@ -15,16 +15,17 @@ const skillCategories = [
     icon: '⚙️',
     skills: ['React.js', 'Bootstrap'],
   },
+    {
+    title: 'Tools & Platforms',
+    icon: '🛠️',
+    skills: ['Git', 'Postman', 'Linux'],
+  },
   {
     title: 'Databases',
     icon: '🗄️',
     skills: ['MySQL'],
   },
-  {
-    title: 'Tools & Platforms',
-    icon: '🛠️',
-    skills: ['Git', 'Postman', 'Linux'],
-  },
+
   {
     title: 'Concepts & Practices',
     icon: '📚',
