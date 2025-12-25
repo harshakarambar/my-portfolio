@@ -93,7 +93,7 @@ export default function Hero() {
         >
           {/* Download Resume Button */}
           <a
-            href="https://drive.google.com/uc?export=download&id=1rCODsWLOj8uENuoFn83OS2BXbBCW0qbV"
+            href="https://drive.google.com/uc?export=download&id=12xiiWSnI-J3sXJb-h7niP79RB_WNP9hi"
             download="HarshaK.pdf"
             className="px-8 py-3 bg-gradient-to-r from-blue-500 to-cyan-500 text-white font-semibold rounded-lg shadow-lg hover:shadow-xl hover:scale-105 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-400 active:scale-95 transition-all"
             aria-label="Download Resume PDF"
