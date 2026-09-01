@@ -23,7 +23,6 @@ export default function Certifications() {
           </article>
         ))}
       </div>
-      <p className="section-note">Certificates are presented as supporting evidence; project work remains the primary proof of practical ability.</p>
     </section>
   );
 }
